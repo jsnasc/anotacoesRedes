@@ -1,0 +1,104 @@
+-- Internet X Intranet X Extranet -- 
+
+Canal Dicionário da Informática
+
+Internet: Rede mundial de computadores baseada no conjunto de protocolos
+TCP/IP.
+
+Intranet:Rede de acesso restrito de uma determinada organização e que utiliza
+a mesma tecnologia da Internet(protocolos).
+
+Extranet: Acesso externo autorizado na Intranet da organização.
+ex:Eu trabalhando de casa(home-office) e acessando informações da empresa
+necessárias à minha função; intranet acessando outra intranet.
+
+_________________________________________________________________________
+
+Canal TI
+
+Internet:Rede mundial de computadores, composta por todos os computadores do mundo
+ligados em rede; está disponível de forma irrestrita na rede mundial de compu-
+tadores.
+
+Intranet:Também é uma rede de computadores, que disponibiliza um conjunto de serviços
+análogo à Internet. Também é baseada na pilha de protocolos TCP/IP, porém a Intranet é restrita a 
+um local físico, ou seja, é fechada, interna e exclusiva.
+Empresas, orgãos públicos e outros tipos de organizações normalmente possuem Intranets, pois precisam de uma rede de
+computadores similar à Internet para manyer seus serviços(Portal Corporativo, por exemplo), porém, por questões de 
+segurança, não há interesse que tais serviços estejam disponíveis para livre acesso pela Internet, daí a necessidade
+de se implantar uma Intranet.
+
+Extranet: Funciona como uma extensão da Intranet à computadores que estejam fora dos domínios físicos da Intranet.
+Permite parceiros,clientes, fornecedores e até funcionários da organização acessarem alguns srviços da Intranet, mesmo
+estando fora da organização.
+Pode ocorrer de duas formas:(1)Acesso exigindo usuário e enhra(para garantir autenticidade do usuário), (2)Por uma rede
+privada virtual(VPN), que "cria uma conexão segura via tunelamento entre o dispositivo fora da Intranet e a Intranet
+propriamente dita".
+
+________________________________________________________________________________________________________
+
+LacConcursos - Canal
+
+Internet:Conjunto de redes interligadas.REDE = 2 computadores/dispostivos, no mínimo, porém, para existir uma rede
+não é necessário o acesso à internet, já para ter-se internet(redes interligadas) é essêncial que se tenha uma rede.
+
+-________________________________________________________________________________________________________
+
+Canal Washington Luis(playlist Internet)
+
+Intranet:É uma "rede corporativa" que utiliza as mesmas tecnologias, protocolos e aplicativos usados na internet.
+É uma aplicação, baseada na ideia da Web, para acesso corporativo.[é uma rede local e privada; TEM que pertencer 
+a um Orgão]
+(Usa Navegador,site,servidor)
+**Site dentro de uma intranet pode ser chamado de Portal Corporativo**
+Acessam apenas funcionários ou clientes cadastrados(autenticação login/senha)
+NA INTRANET NÃO PRECISA TER-SE EM INTERNET OBRIGATÓRIAMENTE, porém o acesso a internet pode ser liberada em alguns
+casos.Para isso, coloca-se um roteador na intranet para então estabelecer essa conexão.
+
+Extranet: É a ligação de duas ou mais intranets parceiras. Acesso externo autorizado na Intranet da organização.
+
+_______________________________________________________________________________________________________________
+
+Canal Lucas - Idea TecFit
+
+Rede: Conexão entre, no mínimo, 2 computadores que estão interligados entre si, através de
+cabos ou não, com o propósito de compartilhar recursos físicos e lógicos.
+
+Internet: Funciona como uma junção de todas as redes no mundo, que estão ligadas a um servidor de acesso.Dessa forma,
+qualquer coisa que seja compartilhada na rede pode ser acessada em qualquer lugar do mundo; é a rede
+mundial de computadores.NÃO EXISTE UM CENTRO DE COMANDO/CONTROLE DA INTERNET.
+Comunicação de uma rede? Se dá pelos protocolos.
+
+LAN:Rede de area local, conecta computadores no mesmo ambiente; rede em ambiente fechado.
+
+Intranet:Muito semelhante à LAN, por serem redes limitadas.
+A LAN por questões de espaço físico, já a Intra a nível de usuário.
+
+**2 principais diferenças entre LAN e Intranet**
+
+(1) A Intranet é dedicada a ramos empresariais, pois apenas usuários fechados e cadastrados no servidor de 
+uma empresa podem acessar seus dados.
+(2)Ao contrário da LAN, uma intranet não precisa necessáriamente estar restrita a um espaço físico,
+pois esta também pode ser acessada pela internet.
+
+Extranet:Caracteriza-se por ser uma extensão da intranet, ou melhor, uma intranet que pode
+ser acessada por 2 empresas. Também é uma rede limitada(não é publica).
+
+Extranet X Intranet(com acesso a internet)
+
+A principal diferença entre todos os tipos de rede não está no modo técnico de cada uma(afinal todas são
+uma rede); a principal diferença consiste no modo como cada um é aplicada e que gerencia a mesma.
+Internet é pública, intranet é gerenciada por uma empresa e controla de perto a quem vai liberar
+acessos aos dados , já a extranet funciona como se fossem duas intranets trocando dados entre si de forma
+privativa/fechada(não pública).
+
+----------------------------------------------------------------------------------------------------------------
+
+Padrão Ethernet: PAdrão e tecnologia de rede muito utilizada para conexões de redes locais. Padrão para industria
+de hardware e software de rede produzirem equipamentos de rede para que, quando conectados entre si, todos estejam
+no mesmo padrão e funcionamento seja o melhor possível. Baseado em comunicação por pacotes de dados.
+
+
+
+
+
